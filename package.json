@@ -1,0 +1,24 @@
+{
+    "name": "ai-swot-analyzer",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "autoprefixer": "^10.4.13",
+      "framer-motion": "^8.3.10",
+      "jsPDF": "^2.5.1",
+      "mongodb": "^5.2.0",
+      "next": "latest",
+      "next-auth": "^4.20.1",
+      "openai": "^3.2.1",
+      "postcss": "^8.4.21",
+      "react": "latest",
+      "react-dom": "latest",
+      "tailwindcss": "^3.2.7"
+    }
+  }
+  
